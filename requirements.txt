@@ -1,5 +1,5 @@
 # Requirements for qdiff environment
-python==3.8.5
+python==3.9
 
 # PyTorch and CUDA (ensure you have the correct CUDA version installed)
 torch==1.12.1+cu116
